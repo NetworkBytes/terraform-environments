@@ -1,0 +1,10 @@
+.vars.sh
+.vars.bat
+**/.*.sw*
+bin/*
+logs/*
+crash.log
+terraform.tfvars
+*.tfstate*
+.terraform
+Temp/*
